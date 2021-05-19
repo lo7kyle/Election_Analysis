@@ -11,8 +11,8 @@ A Colorado Board of Elections employee has tasked me with the following audit of
 	5. Determine the winner of the election based on popular vote
 
 ## Resources
-	* Data Source: election_results.csv
-	* Software Python 3.7.4, Visual Studio Code, 1.56.2
+* Data Source: election_results.csv
+* Software Python 3.7.4, Visual Studio Code, 1.56.2
 	
 ### Code:
 		'''python:
@@ -183,11 +183,11 @@ A Colorado Board of Elections employee has tasked me with the following audit of
 
 
 ## Results
-![Results of the Election Audit](https://github.com/lo7kyle/stock-analysis/blob/main/Resources/Nested%20Loop%202018_Time.PNG)
+![Results of the Election Audit](https://github.com/lo7kyle/Election_Analysis/blob/main/Resources/Election_results_output.PNG)
 
 ### Election-Audit Results/Outcomes: 
 
-*There were a total of __369,711__ votes casted
+* There were a total of __369,711__ votes casted
 
 * Refer to the **_Image_** above to see total percentage votes for each county and which county had the highest total votes
 
